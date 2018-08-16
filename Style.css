@@ -1,0 +1,181 @@
+body{ 
+      background-color:#ffffff;
+      font-family: Arial, Helvetica, sans-serif;
+}
+.resume{     
+    margin:0 auto;
+  width: 1024px;
+}	
+.external-div{
+    height: 200px;
+    width:100%;
+    background-color:#B9C8C7
+}
+.internal-div{
+    float: left;
+    border: 2px solid #000000;
+    outline: #ffffff solid 10px;
+    margin-top: 50px;
+    margin-left:25%;
+    height: 100px;
+    width:50%;
+    background-color: #ffffff;
+  padding:1px;
+}
+h2 {
+    text-align: center;
+}
+.header { 
+  text-align:center;
+  margin-top:10px;
+  margin-bottom:0px;
+  font-size:30px;
+}
+.red{
+    color:#ff0000;
+}
+.sub-header { 
+   margin-top:3px;
+   text-align:center;
+  font-size:25px;
+   font-style: italic;
+}
+.container div{   
+    display: inline-block;
+    margin:0 auto;
+}
+.container{
+    height: 250px;
+    width:auto;
+}
+.profile{
+ padding: 30px;
+}
+.image{
+    position:relative;
+    top:0px;
+    left:70px;
+}
+.details{
+    padding: 70px;
+    position:relative;
+    bottom:40px;
+    left:130px;
+    padding-right: 20px;
+}
+.profile-content{
+    padding-left: 20px;
+    width:300px;
+    text-align:justify;
+}
+.heading{
+ padding-left: 120px;
+}
+img{
+    border-radius: 50%;
+    width: 180px;
+}
+.small-image{
+    width:20px;
+    height:15px;
+    float: right;
+    position: relative;
+    left:20px;
+}
+.whites{
+	background-color:#ffffff;
+	padding:8px;
+	border:1px solid #000000;
+	padding-left:35px;
+	padding-right:35px;
+	position:relative; 
+	bottom:20px;
+	right:1px;
+}
+.outermost{
+	width:984px;
+	padding-left:30px;
+	margin: 0 auto;
+	padding-top:30px;
+height:300px;
+}
+.peaches{
+	background-color:#FAE5D3;
+	padding:8px; 
+	padding-left:65px;
+	padding-right:65px; 
+	position:relative;
+    bottom:20px; 
+	left:24%;
+}
+hr{
+	margin-right:20px;
+}
+div.full {
+  padding-top:0px;
+  width:1024px;
+  margin:0 auto;
+height:0px;
+}
+
+div.entire{
+    margin-top: 0px;
+    margin-bottom:10px;
+}
+
+div.content{
+    padding-left:50px;
+    display:inline-block;
+}
+div.image-content {
+    float: right;
+    margin-right: 30px;
+}
+pre {
+    background-color:#B9C8C7;
+    width: 100px;
+}
+ul {
+    padding-left:50px;
+    list-style-type: circle;
+}
+.experience-heading{
+    text-align:left;
+}
+div.contents {
+    padding-left: 50px;
+    display: inline-block;
+}
+div.image-contents {
+    float:right;
+    margin-right: 30px;
+}
+.space {
+    margin-top:60px;
+}
+.position{
+    padding-left:42px; 
+    padding-right:42px; 
+    left:41%; 
+    position:relative;
+    top:-370px;
+}
+.hr-styling{
+    position:relative;
+    bottom:350px;
+    }
+.expertise{
+    bottom:28px;
+    right:20px; 
+    float:right;
+}
+.content-center{
+    position:relative;
+    bottom:160px; 
+    left:10px;
+}
+.content-right{
+    position:relative; 
+    bottom:330px; 
+    right:25px;
+}
